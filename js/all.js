@@ -1,0 +1,2 @@
+"use strict";!function(){for(var c=document.querySelector(".multi-section"),n=2;n<10;n++){for(var t="",i="",a=1;a<10;a++)i+='\n        <div class="card-item">'.concat(n," x ").concat(a," = ").concat(n*a,"</div> \n      ");t+='\n      <div class="col-lg-4 h-100">\n        <div class="card card-list">\n          <div class="d-flex flex-column flex-wrap align-items-center">\n            <div class="card-title text-center mb-0">'.concat(n,"</div>\n            ").concat(i,"\n          </div>\n        </div>\n      </div>\n    "),c.innerHTML+=t}}();
+//# sourceMappingURL=all.js.map
